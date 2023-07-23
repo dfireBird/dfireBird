@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-- 🔭 I’m currently working on my personal project [Protin](https://github.com/dfireBird/protin).
+- 🔭 I’m currently working on building various emulators, [Chip-8](github.com/dfireBird/chip-8) at the start, NES or GBA might be next.
 - 💬 Ask me about anything you want.
 - 📫 How to reach me: You can find me on [The Programmer's Hangout](https://discord.gg/programming) server as dfireBird#2687, I will pretty active there.
 - 😄 Pronouns: Him/He
